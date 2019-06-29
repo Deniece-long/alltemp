@@ -1,0 +1,20 @@
+1522847376651	geckodriver	INFO	geckodriver 0.20.0
+1522847376665	geckodriver	INFO	Listening on 127.0.0.1:52483
+1522847379679	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\deniece\\AppData\\Local\\Temp\\rust_mozprofile.9xV7yVFynFWb"
+1522847380936	Marionette	INFO	Enabled via --marionette
+1522847383290	Marionette	INFO	Listening on port 52494
+1522847383548	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+te" "-profile" "C:\\Users\\deniece\\AppData\\Local\\Temp\\rust_mozprofile.Ja6kldb6t01o"
+1522847551042	Marionette	INFO	Enabled via --marionette
+1522847552544	Marionette	INFO	Listening on port 52649
+1522847553294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522847638774	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: http://sompuh-us.com/sign-in/, line 78: ReferenceError: s is not defined
+[Parent 15080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

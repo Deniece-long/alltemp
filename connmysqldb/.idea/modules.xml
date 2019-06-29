@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Pro_py3.5/.idea/Pro_py3.5.iml" filepath="$PROJECT_DIR$/../Pro_py3.5/.idea/Pro_py3.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/connmysqldb.iml" filepath="$PROJECT_DIR$/.idea/connmysqldb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../datasetforscript/.idea/datasetforscript.iml" filepath="$PROJECT_DIR$/../datasetforscript/.idea/datasetforscript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stackdenautoencoder/.idea/stackdenautoencoder.iml" filepath="$PROJECT_DIR$/../stackdenautoencoder/.idea/stackdenautoencoder.iml" />
+    </modules>
+  </component>
+</project>
